@@ -11,9 +11,9 @@
 </ul>
 <h2> Utilization </h2>
 <p> Download MP3 Player.rar, add what you want to play to the music directory and use these buttons while enjoying the spectral visualization of the songs. </p>
-<ol>
+<ul>
 <li> Up keyboard button -> Increase volume </li>
 <li> Down keyboard button -> Decrease volume </li>
 <li> Right keyboard button -> Go to next song in music directory </li>
 <li> Left keyboard button -> Go to previous song in music directory </li>
-</ol>
+</ul>
