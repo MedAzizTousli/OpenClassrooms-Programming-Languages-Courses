@@ -1,6 +1,5 @@
 #include <fmod.h> //Sound library
 #include <SDL/SDL.h> //SDL library
-#include <SDL/SDL_ttf.h> //SDL TTF library
 #include <dirent.h> //Dirent library to open musicDirectory
 #include <string.h> //String library
 
