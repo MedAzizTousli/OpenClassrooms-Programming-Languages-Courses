@@ -1,9 +1,9 @@
 /* 
-C Mini Project - Creation of a mini MP3 player
+C Mini Project - Creation of a mini music player
 
-This MP3 player program was created by Mohamed Aziz Tousli.
+This music player program was created by Mohamed Aziz Tousli.
 
-This MP3 player program was created using SDL 1.2 GUI library and FMOD Programmers API library.
+This music player program was created using SDL 1.2 GUI library and FMOD Programmers API library.
 
 Add what you want to play to the music directory and use these buttons while enjoying the spectral visualization of the songs.
 
