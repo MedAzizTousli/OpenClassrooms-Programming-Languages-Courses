@@ -1,3 +1,19 @@
+/* 
+C Mini Project - Creation of a mini MP3 player
+
+This MP3 player program was created by Mohamed Aziz Tousli.
+
+This MP3 player program was created using SDL 1.2 GUI library and FMOD Programmers API library.
+
+Add what you want to play to the music directory and use these buttons while enjoying the spectral visualization of the songs.
+
+    Up keyboard button -> Increase volume
+    Down keyboard button -> Decrease volume 
+    Right keyboard button -> Go to next song in music directory
+    Left keyboard button -> Go to previous song in music directory
+*/
+
+
 #include <fmod.h> //Sound library
 #include <SDL/SDL.h> //SDL library
 #include <dirent.h> //Dirent library to open musicDirectory
