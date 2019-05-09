@@ -1,4 +1,4 @@
-# OpenClassrooms' Programming Languages Courses
+# OpenClassrooms Programming Languages Courses
 <p> This repository contains my full documentation of OpenClassrooms' Programming Languages Courses (C, C++, Python, Java, JavaScript, SQL, Linux). </p>
 
 <h2> About the Courses </h2>
