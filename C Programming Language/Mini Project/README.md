@@ -1,4 +1,4 @@
-# C Mini Project - Creation of a mini music player
+# C Mini Project - Create a mini music player
 <p> In order to practice what I have learned in C programming language, I worked on this mini music player program using SDL GUI library and FMOD sound library. </p>
 <h2> About </h2>
 <h4> Work done by: </h4>
