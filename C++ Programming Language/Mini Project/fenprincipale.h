@@ -1,3 +1,11 @@
+/* 
+C++ Mini Project - Creation of a mini browser
+
+This browser program was created by Mohamed Aziz Tousli.
+
+This browser program was created using Qt 5.5 library.
+*/
+
 #ifndef FENPRINCIPALE_H
 #define FENPRINCIPALE_H
 
