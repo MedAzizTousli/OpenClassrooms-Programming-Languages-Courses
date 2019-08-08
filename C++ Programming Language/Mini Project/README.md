@@ -1,5 +1,5 @@
 # C++ Mini Project - Create a mini browser
-<p> In order to practice what I have learned in C++ programming language, I worked on this mini browser using Qt 5.5 GUI library. </p>
+<p> In order to practice what I have learned in C++ programming language, I worked on this mini browser using Qt. </p>
 <h2> About </h2>
 <h4> Work done by: </h4>
 <ul>
