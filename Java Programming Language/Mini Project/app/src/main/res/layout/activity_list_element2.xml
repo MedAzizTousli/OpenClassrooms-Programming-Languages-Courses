@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".list_element2">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+            android:layout_width="match_parent"
+            android:layout_height="679dp"
+            android:id="@+id/table2"
+            android:stretchColumns="3">
+
+            <TableRow>
+
+                <EditText
+                    android:layout_column="1"
+                    android:enabled="false"
+                    android:text="Item"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="30dp" />
+
+                <EditText
+                    android:layout_column="2"
+                    android:text="Price"
+                    android:enabled="false"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="30dp" />
+
+                <EditText
+                    android:layout_column="3"
+                    android:text="Quantity"
+                    android:enabled="false"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="30dp" />
+            </TableRow>
+
+            <TableRow>
+
+                <EditText
+                    android:layout_column="1"
+                    android:enabled="false"
+                    android:text="L7am"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="2"
+                    android:text="2 dt/kg"
+                    android:enabled="false"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="3"
+                    android:text="0"
+                    android:textColor="@color/colorAccent" />
+            </TableRow>
+
+            <TableRow>
+
+                <EditText
+                    android:layout_column="1"
+                    android:enabled="false"
+                    android:text="Djaj"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="2"
+                    android:enabled="false"
+                    android:text="5 dt/kg"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="3"
+                    android:text="0"
+                    android:textColor="@color/colorAccent" />
+            </TableRow>
+
+            <TableRow>
+
+                <EditText
+                    android:layout_column="1"
+                    android:text="l7am bhayem"
+                    android:enabled="false"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="2"
+                    android:enabled="false"
+                    android:text="1 dt/kg"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="3"
+                    android:text="0"
+                    android:textColor="@color/colorAccent" />
+            </TableRow>
+
+            <TableRow>
+
+                <EditText
+                    android:layout_column="1"
+                    android:enabled="false"
+                    android:text="mergez"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="2"
+                    android:enabled="false"
+                    android:text="7 dt/kg"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="3"
+                    android:text="0"
+                    android:textColor="@color/colorAccent" />
+            </TableRow>
+
+            <TableRow>
+
+                <EditText
+                    android:layout_column="1"
+                    android:text="bat"
+                    android:enabled="false"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="2"
+                    android:text="40 dt/kg"
+                    android:enabled="false"
+                    android:textColor="@color/colorAccent" />
+
+                <EditText
+                    android:layout_column="3"
+                    android:text="0"
+                    android:textColor="@color/colorAccent" />
+            </TableRow>
+
+        </TableLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right">
+
+        <Button
+
+            android:id="@+id/Save2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:verticalScrollbarPosition="left" />
+
+    </LinearLayout>
+
+</LinearLayout>
