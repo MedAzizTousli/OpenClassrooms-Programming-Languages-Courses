@@ -1,4 +1,4 @@
-# Android Mini Project - Grocery shopping application
+# Java Mini Project - Grocery shopping application
 The goal of this application is to offer an easy way to manage grocery shopping list and to calculate the expenses of your future purchases.
 <h2> About </h2>
 </br> This project was carried out as part of the training of engineers at Tunisia Polytechnic School under the module "Mobile Developement" taught in second year.
